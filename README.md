@@ -1,14 +1,11 @@
-Bonder
+Template Service
 ======
 
-Social Graph Operations Service
+Template Service
 
-The service is written in Scala and uses Neo4j 1.8.1
+The service is written in Scala
 
 Requirements
 ============
 
 Scala: 2.9.2
-Sbt::
-
-Lead: Ahmed Soliman <asoliman@cloud9ers.com>
