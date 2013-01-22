@@ -1,0 +1,15 @@
+.DS_Store
+.settings
+.classpath
+.cache
+*.pyc
+.project
+.pydevproject
+cache
+environment
+nosetests.xml
+.coverage
+target
+db
+project/project
+project/target
